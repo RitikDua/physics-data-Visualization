@@ -10,7 +10,7 @@ After the phyiscs experiment whatever the observation we achieved we make a tabl
 
 - Python must be installed.Vist [here](https://www.python.org/downloads/) to install
 - Jupyter notebook must be installed in your PCs in order to  make this project work.
-For how to install Jupyter notebook [visit here](https://jupyter.org/inst
+For how to install Jupyter notebook [visit here](https://jupyter.org/install)
 
 ## How to run:
 ### Step 1:
