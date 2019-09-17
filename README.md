@@ -18,3 +18,8 @@ For how to install Jupyter notebook [visit here](https://jupyter.org/install)
 ### Step 2:
 * run 'hall effect.ipynb' in jupyter notebook.
 
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+	
+  - [MIT license](https://opensource.org/licenses/mit-license.php)
