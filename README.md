@@ -12,7 +12,7 @@ After the phyiscs experiment whatever the observation we achieved we make a tabl
 - Jupyter notebook must be installed in your PCs in order to  make this project work.
 For how to install Jupyter notebook [visit here](https://jupyter.org/install)
 - Also install some relevant libraries like matplotlib and pandas
-	-visit [here](https://matplotlib.org/3.1.1/users/installing.html) for matplotlib.
+	- visit [here](https://matplotlib.org/3.1.1/users/installing.html) for matplotlib.
 	- visit [here](https://pandas.pydata.org/pandas-docs/stable/install.html) for pandas.
 ## How to run:
 ### Step 1:
